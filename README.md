@@ -1,12 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm a Software Engineer & AI Developer
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer working"/>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 I'm a passionate software engineer specializing in full-stack development and AI/ML solutions. I build scalable applications across mobile, web, and backend platforms while developing intelligent systems that solve real-world problems.
@@ -61,10 +55,6 @@ I'm a passionate software engineer specializing in full-stack development and AI
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Featured Projects
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Projects"/>
-</div>
-
 **<img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" width="16"> AI Trading Systems**
 - Forex market prediction using deep learning
 - Real-time trading signal generation
@@ -83,11 +73,6 @@ I'm a passionate software engineer specializing in full-stack development and AI
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Seeking Collaborators
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Collaboration"/>
-</div>
-
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> **FOREX TRADING AI PROJECT**
 
 I'm developing an advanced AI-powered forex trading system and looking for passionate developers to collaborate.
